@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ADARSH RANJAN</h1>
-<h3 align="center">A B.E (CSE) student in Computer Science and Engineering at Chitkara University.</h3>
+<h3 align="center"> B.E. (CSE) student in Computer Science and Engineering at Chitkara University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshranjan36&label=Profile%20views&color=0e75b6&style=flat" alt="adarshranjan36" /> </p>
 
