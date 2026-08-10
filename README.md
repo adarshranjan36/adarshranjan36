@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adarsh Ranjan
 
-### 💻 Software Engineer | 🧪 Software Testing | 🚀 DevOps & Cloud Enthusiast
+### 💻 Software Engineer | 🧪 Software Manual Tester | 🚀 DevOps & Cloud Enthusiast
 
 I'm a **Computer Science Engineering graduate from Chitkara University** with a strong foundation in **software development and manual software testing**, and a growing focus on **DevOps and Cloud Engineering**.
 
